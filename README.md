@@ -10,8 +10,8 @@
 
 touch .env and replace your keys
 
-MISTRAL_API_KEY=""
-COHERE_API_KEY=""
-PINECONE_API_KEY = ""
-PINECONE_ENVIRONMENT='us-east-1'
-INDEX_NAME = "financial-wizard"
+MISTRAL_API_KEY="" # mistral api key <br>
+COHERE_API_KEY="" # cohere api key <br>
+PINECONE_API_KEY = "" # pinecone api key <br>
+PINECONE_ENVIRONMENT='us-east-1' # pinecone environment <br>
+INDEX_NAME = "financial-wizard" # pinecone index name <br>
